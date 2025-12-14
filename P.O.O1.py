@@ -1,7 +1,6 @@
-# Programa: Promedio Semanal del Clima (Versión POO)
-# Autor: Estudiante de programación
-# Propósito: Calcular el promedio semanal de temperaturas usando clases y métodos
-# Paradigma: Programación Orientada a Objetos
+
+# Calcular el promedio semanal de temperaturas usando clases y métodos
+Programación Orientada a Objetos
 
 class DiaClima:
     """
